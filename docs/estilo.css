@@ -1,0 +1,21 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.limenu{
+    list-style: none;
+    display: inline;
+    margin: 2% 2% 2% 2%; 
+    
+    padding: 1%;
+
+}
+nav{
+    background-color: rgb(247, 190, 176);
+    padding: 1%;
+}
+
+.nomeh1{
+    text-align: center;
+}
